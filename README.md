@@ -1,4 +1,4 @@
- # Housing price analysis
+# Housing price analysis
 
 ## Question
 
@@ -29,4 +29,4 @@ This is a coursework demonstration rather than a production valuation model: the
 
 Open `housing_analysis.ipynb` in Jupyter and run the cells from top to bottom. Keep `housing.csv` beside the notebook. The two PNG files in `visualizations/` were generated from the same dataset.
 
-The project is prepared locally. A public GitHub URL will be added only after the student confirms repository names and visibility.
+The public project repository is available at https://github.com/CheangChiIo/data-science-project.
